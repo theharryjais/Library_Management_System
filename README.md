@@ -1,5 +1,6 @@
 # Library_Management_System
 **INTRODUCTION**
+<p/>
 The library management system will help in recording all the valuable data easily in the database. 
 An authorized person can only login so there us not risk of any kind of the information drain or waste. 
 It will help in adding books in the library. It will also help to sustain records of the books that was issued and returned, 
@@ -18,6 +19,7 @@ The students can ask for books. The librarian can also see the record of student
 ![9](https://user-images.githubusercontent.com/83801231/135770674-26174dd9-f731-46b5-b9a3-2b6a3aae2ff9.jpg)
 
 **SCOPE**
+<p/>
 Any educational institutes can make use of it for providing information about author, content of the available books.
 It helps to display the numbers of books available which members will be able to issue, the numbers of books available for reading.<p/>
 
