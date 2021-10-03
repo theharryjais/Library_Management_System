@@ -23,5 +23,18 @@ The students can ask for books. The librarian can also see the record of student
 Any educational institutes can make use of it for providing information about author, content of the available books.
 It helps to display the numbers of books available which members will be able to issue, the numbers of books available for reading.<p/>
 
+**FEATURES**
+<p>
+  •	Admin can sign in  so that the information can be secured and there is no information drain.<br>
+•	Admin cam add books in management system after it bought in the library ,search, for the books are they available or not.<br>
+•	It keeps the data of the book when it was issued from the library.<br>
+•	It store the data of issue and the returned date of the books.<br>
+•	It store the data of students and there activity.<br>
+•	Users can update the stored record of the books when there is somethings new added on the current information missing.<br>
+•	Users can delete the record of the students when they did not want to keep record in library.<br>
+  <p>
+    
+
+
 
 
