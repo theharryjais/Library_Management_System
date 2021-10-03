@@ -43,6 +43,15 @@ It helps to display the numbers of books available which members will be able to
 •	Users can delete the record of the students when they did not want to keep record in library.<br>
   <p>
     
+**TOOLS AND TECHNOLOGY**
+    ![tools](https://user-images.githubusercontent.com/83801231/135771345-e2ca238e-7a23-4ea6-b1b9-f636a1d46dac.jpg)
+    
+    
+    
+Harry jaiswal<br>
+  Student Id- 210264<br>
+     Batch 30B<br    
+       Email:-Harryjaiswal2077@gmail.com<br>
 
 
 
